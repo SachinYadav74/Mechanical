@@ -153,3 +153,15 @@ p{
     height: 100px;
     width: auto;
 }
+#fits_img img{
+    width: 300px;
+    height: auto;
+    border: 2px solid black;
+    border-radius: 8px;
+}
+#tolerance_table img{
+    width: 300px;
+    height: auto;
+    border-radius: 8px;
+    border: 2px solid black;
+}
